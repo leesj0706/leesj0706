@@ -41,7 +41,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leesj0706&theme=dark" />
 </p>
 
-### 🎈 Baekjoon Stats (ID: seoul9627)
+### 🎈 Baekjoon Stats
 <p align="center">
   <a href="https://solved.ac/seoul9627">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seoul9627" />
