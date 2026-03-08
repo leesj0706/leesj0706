@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesj0706&layout=compact&theme=radical" />
 </p>
 
-### 🎈 Baekjoon Stats (ID: seoul9627)
+### 🎈 Baekjoon Stats
 <p align="center">
   <a href="https://solved.ac/seoul9627">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seoul9627" />
